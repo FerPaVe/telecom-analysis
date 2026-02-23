@@ -92,3 +92,13 @@ Implementar estrategias de upselling para usuarios de uso medio.
 Crear planes enfocados en mensajería para usuarios jóvenes.
 
 Ofrecer planes simples y enfocados en llamadas para adultos mayores.
+
+▶️ Cómo ejecutar el proyecto
+
+Clonar este repositorio.
+
+Abrir el archivo .ipynb en Jupyter Notebook.
+
+Ejecutar las celdas en orden (de arriba hacia abajo).
+
+Asegurarse de que los archivos CSV estén en la ruta correcta.
